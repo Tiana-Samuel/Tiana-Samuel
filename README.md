@@ -10,10 +10,10 @@ Outside of code and building dashboards, I am an entrepreneur. I love fragrances
 [![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)  
 [![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en/microsoft-365/excel)  
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/MSSQL-T%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/en-us/sql/t-sql/language-elements/transact-sql-syntax-elements-transact-sql)
+[![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://learn.microsoft.com/en-us/sql/t-sql/language-elements/transact-sql-syntax-elements-transact-sql)
 [![Google BigQuery](https://img.shields.io/badge/BigQuery-Standard SQL-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)](https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax)
 
 ## 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/c-samuel)
 - [Email](christianasamuel0221@gmail.com)
-- GitHub: [Tiana-Samuel](https://github.com/Tiana-Samuel)
+
